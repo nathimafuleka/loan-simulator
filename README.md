@@ -311,7 +311,7 @@ This project is created as part of a technical assessment.
 
 ## Author
 
-Nkosinathi Bezuidenhout
+Nkosinathi Mafuleka
 
 ## Contact
 
