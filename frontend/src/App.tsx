@@ -56,7 +56,7 @@ function App() {
         </div>
 
         <footer className="mt-12 text-center text-slate-500 text-sm">
-          <p>© 2024 Loan Eligibility Simulator. All calculations are estimates only.</p>
+          <p>© 2026 Loan Eligibility Simulator. All calculations are estimates only.</p>
         </footer>
       </div>
     </div>
